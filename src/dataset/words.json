@@ -1,0 +1,169 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word_tent": "ZANE KU’EM",
+      "word_port": "bom dia"
+    },
+    {
+      "id": 2,
+      "word_tent": "ZANE KARUK",
+      "word_port": "boa tarde"
+    },
+    {
+      "id": 3,
+      "word_tent": "PYHEWE",
+      "word_port": "amanhã"
+    },
+    {
+      "id": 4,
+      "word_tent": "KUTÀRI",
+      "word_port": "hoje"
+    },
+    {
+      "id": 5,
+      "word_tent": "PYHEGWE PE",
+      "word_port": "depois de amanhã"
+    },
+    {
+      "id": 6,
+      "word_tent": "AMO PYHEWE",
+      "word_port": "depois de amanhã"
+    },
+    {
+      "id": 7,
+      "word_tent": "AMO PYHEGWE PE",
+      "word_port": "depois de amanhã"
+    },
+    {
+      "id": 8,
+      "word_tent": "ZAHA",
+      "word_port": "vamos"
+    },
+    {
+      "id": 9,
+      "word_tent": "EZUR",
+      "word_port": "vem"
+    },
+    {
+      "id": 10,
+      "word_tent": "TÀRITYKA'I",
+      "word_port": "agora"
+    },
+    {
+      "id": 11,
+      "word_tent": "EHO",
+      "word_port": "vai"
+    },
+    {
+      "id": 12,
+      "word_tent": "KUZÀ",
+      "word_port": "mulher"
+    },
+    {
+      "id": 13,
+      "word_tent": "AWÁ",
+      "word_port": "homem"
+    },
+    {
+      "id": 14,
+      "word_tent": "KWAHARER’ WÀ",
+      "word_port": "crianças"
+    },
+    {
+      "id": 15,
+      "word_tent": "IMEMYR",
+      "word_port": "filho/filha dela"
+    },
+    {
+      "id": 16,
+      "word_tent": "TA'YR",
+      "word_port": "filho dele"
+    },
+    {
+      "id": 17,
+      "word_tent": "TAZYR",
+      "word_port": "filha dele"
+    },
+    {
+      "id": 18,
+      "word_tent": "IPURUMUZÀMUZÀG",
+      "word_port": "filhos"
+    },
+    {
+      "id": 19,
+      "word_tent": "HEINYR",
+      "word_port": "irmã dele"
+    },
+    {
+      "id": 20,
+      "word_tent": "IKYWYR",
+      "word_port": "irmão dela"
+    },
+    {
+      "id": 21,
+      "word_tent": "YHI",
+      "word_port": "mãe"
+    },
+    {
+      "id": 22,
+      "word_tent": "TU",
+      "word_port": "pai"
+    },
+    {
+      "id": 23,
+      "word_tent": "ZARYZ",
+      "word_port": "avó"
+    },
+    {
+      "id": 24,
+      "word_tent": "TÀMUZ",
+      "word_port": "avô"
+    },
+    {
+      "id": 25,
+      "word_tent": "HEMIRIRO",
+      "word_port": "neto, neta dela"
+    },
+    {
+      "id": 26,
+      "word_tent": "HEMIMINO",
+      "word_port": "neto, neta dele"
+    },
+    {
+      "id": 27,
+      "word_tent": "TUAGAW",
+      "word_port": "padrasto/padrinho"
+    },
+    {
+      "id": 28,
+      "word_tent": "YHIAGAW",
+      "word_port": "madrasta/madrinha"
+    },
+    {
+      "id": 29,
+      "word_tent": "IMEN",
+      "word_port": "marido/ esposo"
+    },
+    {
+      "id": 30,
+      "word_tent": "HEMIREKO",
+      "word_port": "esposa"
+    },
+    {
+      "id": 31,
+      "word_tent": "IPEUM",
+      "word_port": "genro dela"
+    },
+    {
+      "id": 32,
+      "word_tent": "TAZYWEN",
+      "word_port": "genro dele"
+    },
+    {
+      "id": 33,
+      "word_tent": "MIREPAR",
+      "word_port": "amigo"
+    }
+  ]
+}
